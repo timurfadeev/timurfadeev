@@ -1,7 +1,7 @@
 ## Language and Tools 💼
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=appveyor=JavaScript)
-![Vue.js](https://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=appveyor=Vue.js)
+!Angular](https://img.shields.io/badge/-Angular-BD002E?style=flat-square&logo=appveyor=Angular)
 
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=appveyor=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=appveyor=CSS)
